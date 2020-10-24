@@ -1,9 +1,9 @@
 # Cryptocurrencies
-Using unsupervised learning to determine which cryptocurrencies are good investments
+Using unsupervised machine learning to determine which cryptocurrencies are good investments
 
 ## Aim
 
-THe aim of this project is to group the cryptocurrencies in order to determine the products in which to invest using data tables and data visualizations
+The aim of this project was to group the cryptocurrencies in order to determine the products in which to invest using data tables and data visualizations
 
 ## Input
 
